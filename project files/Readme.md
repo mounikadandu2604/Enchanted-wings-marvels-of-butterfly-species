@@ -1,4 +1,4 @@
-🦋 Butterfly Classification Project
+# 🦋 Butterfly Classification Project
 
 This is a deep learning web application that classifies butterfly species using a VGG16 model trained on a custom dataset.
 
