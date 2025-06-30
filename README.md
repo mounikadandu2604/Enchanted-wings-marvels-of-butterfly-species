@@ -14,4 +14,3 @@ Enchanted Wings is a deep learning-based web application that classifies butterf
 📄 Folders Summary
 Document: Contains the detailed project report PDF and documentation readme.
 Project Files: Source code files, CSV dataset labels, templates, and static assets.
-Video Demo: Contains demo video explaining project functionality and usage.
