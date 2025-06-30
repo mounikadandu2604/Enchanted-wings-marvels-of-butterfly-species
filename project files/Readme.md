@@ -2,7 +2,10 @@
 
 This is a deep learning web application that classifies butterfly species using a VGG16 model trained on a custom dataset.
 
----
+## About the Project
+Butterflies are important pollinators and indicators of environmental health. However, identifying their species manually can be time-consuming and expertise-dependent.  
+**Enchanted Wings** is an AI-based web app that helps classify butterfly species instantly through image uploads.
+
 
 ## 📁 Files
 
@@ -14,12 +17,9 @@ This is a deep learning web application that classifies butterfly species using 
 
 ---
 
-## 📥 Download Model File
+### 🎯 Objective:
+To build a real-time butterfly classification system using a fine-tuned **VGG16 model** and deploy it through a Flask web app.
 
-👉 [Click here to download vgg16_model.h5](#)  
-*(Replace `#` with your actual model file link)*
-
----
 
 ## 🚀 How to Run
 
@@ -31,9 +31,6 @@ This is a deep learning web application that classifies butterfly species using 
 
 ## 🔗 GitHub Project
 
-🌐 
----
-
 ## 👨‍💻 Developed by
 
 **Mounica danduboyina**  
@@ -44,7 +41,4 @@ B.Tech – Ramachandra college of engineering
 ## 🔗 Connect With Me
 
 - 📧 **Email:** dandumounika2016@gmail.com
-
-
----
 
